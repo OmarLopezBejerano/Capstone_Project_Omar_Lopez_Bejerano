@@ -1,0 +1,152 @@
+Full MIMIC-BP Training Started: 2025-11-17 11:09:19.214481
+================================================================================
+
+
+Epoch 1/100 (601.9s)
+- Train Loss: 341.8273 | Val Loss: 215.7457
+- Train MAE: SBP=16.31, DBP=10.10
+- Val MAE:   SBP=13.44, DBP=9.06
+- LR: 0.001000
+Best model saved.
+
+
+Epoch 2/100 (602.1s)
+- Train Loss: 207.5986 | Val Loss: 204.6435
+- Train MAE: SBP=13.49, DBP=8.85
+- Val MAE:   SBP=13.19, DBP=8.76
+- LR: 0.001000
+Best model saved.
+
+
+Epoch 3/100 (600.0s)
+- Train Loss: 188.8386 | Val Loss: 207.0517
+- Train MAE: SBP=12.90, DBP=8.40
+- Val MAE:   SBP=13.26, DBP=9.03
+- LR: 0.001000
+No improvement. Patience: 1/15
+
+
+Epoch 4/100 (599.3s)
+- Train Loss: 176.2005 | Val Loss: 215.2777
+- Train MAE: SBP=12.40, DBP=8.10
+- Val MAE:   SBP=13.63, DBP=8.88
+- LR: 0.001000
+No improvement. Patience: 2/15
+
+
+Epoch 5/100 (598.5s)
+- Train Loss: 162.0548 | Val Loss: 246.4588
+- Train MAE: SBP=11.82, DBP=7.77
+- Val MAE:   SBP=14.78, DBP=9.17
+- LR: 0.001000
+No improvement. Patience: 3/15
+
+
+Epoch 6/100 (599.3s)
+- Train Loss: 148.2236 | Val Loss: 241.0202
+- Train MAE: SBP=11.22, DBP=7.43
+- Val MAE:   SBP=14.52, DBP=9.09
+- LR: 0.001000
+No improvement. Patience: 4/15
+
+
+Epoch 7/100 (600.9s)
+- Train Loss: 135.9920 | Val Loss: 231.7043
+- Train MAE: SBP=10.69, DBP=7.11
+- Val MAE:   SBP=14.48, DBP=8.89
+- LR: 0.001000
+No improvement. Patience: 5/15
+
+
+Epoch 8/100 (599.4s)
+- Train Loss: 123.8234 | Val Loss: 251.2386
+- Train MAE: SBP=10.16, DBP=6.76
+- Val MAE:   SBP=15.17, DBP=8.93
+- LR: 0.000500
+No improvement. Patience: 6/15
+
+
+Epoch 9/100 (598.7s)
+- Train Loss: 105.3016 | Val Loss: 252.6789
+- Train MAE: SBP=9.29, DBP=6.22
+- Val MAE:   SBP=14.72, DBP=9.51
+- LR: 0.000500
+No improvement. Patience: 7/15
+
+
+Epoch 10/100 (598.4s)
+- Train Loss: 97.8978 | Val Loss: 269.0733
+- Train MAE: SBP=8.95, DBP=5.97
+- Val MAE:   SBP=15.52, DBP=9.80
+- LR: 0.000500
+No improvement. Patience: 8/15
+
+
+Epoch 11/100 (598.9s)
+- Train Loss: 91.7537 | Val Loss: 251.3752
+- Train MAE: SBP=8.65, DBP=5.78
+- Val MAE:   SBP=14.94, DBP=9.27
+- LR: 0.000500
+No improvement. Patience: 9/15
+
+
+Epoch 12/100 (598.3s)
+- Train Loss: 86.7396 | Val Loss: 264.6941
+- Train MAE: SBP=8.42, DBP=5.61
+- Val MAE:   SBP=14.96, DBP=9.80
+- LR: 0.000500
+No improvement. Patience: 10/15
+
+
+Epoch 13/100 (596.8s)
+- Train Loss: 82.0737 | Val Loss: 279.1690
+- Train MAE: SBP=8.17, DBP=5.47
+- Val MAE:   SBP=15.98, DBP=9.74
+- LR: 0.000500
+No improvement. Patience: 11/15
+
+
+Epoch 14/100 (596.9s)
+- Train Loss: 77.7644 | Val Loss: 270.4593
+- Train MAE: SBP=7.95, DBP=5.32
+- Val MAE:   SBP=15.48, DBP=9.47
+- LR: 0.000250
+No improvement. Patience: 12/15
+
+
+Epoch 15/100 (596.9s)
+- Train Loss: 69.0033 | Val Loss: 265.6405
+- Train MAE: SBP=7.46, DBP=5.03
+- Val MAE:   SBP=15.12, DBP=9.55
+- LR: 0.000250
+No improvement. Patience: 13/15
+
+
+Epoch 16/100 (597.8s)
+- Train Loss: 66.5215 | Val Loss: 285.8171
+- Train MAE: SBP=7.32, DBP=4.95
+- Val MAE:   SBP=16.04, DBP=9.71
+- LR: 0.000250
+No improvement. Patience: 14/15
+
+
+Epoch 17/100 (599.8s)
+- Train Loss: 64.6124 | Val Loss: 269.3018
+- Train MAE: SBP=7.23, DBP=4.87
+- Val MAE:   SBP=15.46, DBP=9.48
+- LR: 0.000250
+No improvement. Patience: 15/15
+
+Early stopping triggered after 17 epochs
+
+
+================================================================================
+TRAINING COMPLETE
+================================================================================
+Total Time: 2.83 hours
+Best Val Loss: 204.6435
+Final Epoch: 17
+Models saved:
+- best_model_full.pth (best checkpoint)
+- resnet152_bp_model_full.pth (final model)
+================================================================================

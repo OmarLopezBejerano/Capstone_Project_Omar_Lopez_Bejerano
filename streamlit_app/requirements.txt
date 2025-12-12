@@ -1,0 +1,27 @@
+# Blood Pressure Prediction Dashboard - Requirements
+
+# Core Framework
+streamlit>=1.30.0
+
+# Data Processing
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Garmin .fit File Processing
+fitparse>=1.2.0
+
+# Visualization
+plotly>=5.18.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Database
+# sqlite3 (built into Python)
+
+# Additional utilities
+python-dateutil>=2.8.0

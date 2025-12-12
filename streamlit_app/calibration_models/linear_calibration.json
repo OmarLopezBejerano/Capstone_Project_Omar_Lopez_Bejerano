@@ -1,0 +1,22 @@
+{
+  "sbp_coef": 4.520158438446887,
+  "sbp_intercept": -331.6459949996087,
+  "dbp_coef": -3.0734965697075434,
+  "dbp_intercept": 222.675756559251,
+  "is_fitted": true,
+  "n_samples": 14,
+  "metrics": {
+    "success": true,
+    "n_samples": 14,
+    "sbp_coef": 4.520158438446887,
+    "sbp_intercept": -331.6459949996087,
+    "dbp_coef": -3.0734965697075434,
+    "dbp_intercept": 222.675756559251,
+    "sbp_mae_before": 24.170358385358536,
+    "sbp_mae_after": 5.766904680789229,
+    "dbp_mae_before": 24.853381656465075,
+    "dbp_mae_after": 2.2698598132042176,
+    "improvement_sbp": 18.40345370456931,
+    "improvement_dbp": 22.583521843260858
+  }
+}

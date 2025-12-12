@@ -1,0 +1,30 @@
+{
+  "sbp_degree": 3,
+  "dbp_degree": 1,
+  "sbp_coefs": [
+    0.0,
+    457374.2953749987,
+    -4535.977597997409,
+    14.994574240854611
+  ],
+  "sbp_intercept": -15372098.39330329,
+  "dbp_coefs": [
+    -0.0,
+    -3.0734965697075447
+  ],
+  "dbp_intercept": 222.67575655925106,
+  "is_fitted": true,
+  "n_samples": 14,
+  "metrics": {
+    "success": true,
+    "n_samples": 14,
+    "sbp_degree": 3,
+    "dbp_degree": 1,
+    "sbp_mae_before": 24.170358385358536,
+    "sbp_mae_after": 3.3397409513237926,
+    "dbp_mae_before": 24.853381656465075,
+    "dbp_mae_after": 2.269859813204216,
+    "improvement_sbp": 20.830617434034743,
+    "improvement_dbp": 22.583521843260858
+  }
+}

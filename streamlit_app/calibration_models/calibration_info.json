@@ -1,0 +1,6 @@
+{
+  "sbp_model_type": "polynomial",
+  "dbp_model_type": "linear",
+  "n_samples": 14,
+  "has_poly": true
+}
