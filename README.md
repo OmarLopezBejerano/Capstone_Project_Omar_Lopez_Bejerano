@@ -7,8 +7,10 @@ December 12th, 2025
 <video src="https://github.com/user-attachments/assets/122b2919-93f2-4f7f-819c-ae631b8d470d" controls="controls" style="max-width: 730px;">
 </video>
 
-## ADDITIONAL USE VIDEO
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h_ivKdvHwTw?si=ijlsEWENPhAucf0Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+---
+
+## Appendix Video (Showing use case)
+[![Youtube Video](https://github.com/user-attachments/assets/8968ce8f-97a1-43b3-b115-062acc5abbde)](https://www.youtube.com/watch?v=h_ivKdvHwTw)
 
 ---
 
