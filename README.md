@@ -1,4 +1,18 @@
-# OmarLopezBejerano-Capstone-Project-2025
+# Capstone-Project-2025
+```
+Omar Lopez Bejerano
+December 12th, 2025
+```
+## SUBMISSION VIDEO
+<video src="https://github.com/user-attachments/assets/122b2919-93f2-4f7f-819c-ae631b8d470d" controls="controls" style="max-width: 730px;">
+</video>
+
+## ADDITIONAL USE VIDEO
+<video src="https://www.youtube.com/watch?v=h_ivKdvHwTw" controls="controls" style="max-width: 730px;">
+</video>
+
+---
+
 # Methodology for Blood Pressure Prediction from Consumer Wearables
 
 *Technical methodology for cuffless BP monitoring using Garmin HRV data*
