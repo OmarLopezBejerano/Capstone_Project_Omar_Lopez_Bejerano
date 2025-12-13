@@ -10,7 +10,9 @@ December 12th, 2025
 ---
 
 ## Appendix Video (Showing use case)
-[![Youtube Video](https://github.com/user-attachments/assets/8968ce8f-97a1-43b3-b115-062acc5abbde)](https://www.youtube.com/watch?v=h_ivKdvHwTw)
+<video src="https://github.com/user-attachments/assets/1067dcfd-ced8-4e1c-9d8e-95c778bad130" controls="controls" style="max-width: 730px;">
+</video>
+<!-- [![Youtube Video](https://github.com/user-attachments/assets/8968ce8f-97a1-43b3-b115-062acc5abbde)](https://www.youtube.com/watch?v=h_ivKdvHwTw) -->
 
 ---
 
